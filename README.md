@@ -8,4 +8,4 @@ A arquitetura da rede da CNN foi inspirada no modelo proposto por [Hatami et al.
 Entretanto, para a representação matricial das séries temporais, utilizou-se a metodologia proposta por [Yanqing Ye (2018)](https://link.springer.com/article/10.1007/s10115-018-1264-0)
 
 
-O intuito de aplicação deste projeto é auxiliar na clusterização de ativos financeiros diversos, e também na criação de possíveis indicadores  de análises técnicas aumento assertividade e escala. 
+O intuito de aplicação deste projeto é auxiliar na clusterização de ativos financeiros diversos, e também na criação de possíveis indicadores  de análise técnica, aumentando assertividade e escala.
