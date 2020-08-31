@@ -1,4 +1,4 @@
-# Image classifier applied to time series
+# A image classifier applied to time series data
 
 Tendo em vista o excelente desempenho das redes neurais convolucionais para reconhecimento de imagens, é razoável pensar que se possa também aplicar tais modelos à séries temporais, uma vez que essas sejam convertidas para o formato 2D. 
 
